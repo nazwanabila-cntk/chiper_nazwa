@@ -1,0 +1,13 @@
+=== Program Caesar & Vigenère Cipher ===
+
+Kode Program:
+Kode ditulis langsung di notebook.
+
+
+=== Hasil Eksekusi ===
+Teks Asli: Rintik di Ujung Senja  Hujan turun di ujung senja, membawa aroma tanah yang akrab, Langit jingga perlahan pudar, berganti kelabu yang lembap. Aku duduk di beranda, menatap waktu yang berjalan pelan, Membiarkan rintik membawa tenang di sela kenangan.  Ada kehangatan di balik dinginnya udara, Seolah hujan mengajak hati untuk bercerita. Tentang tawa yang dulu ada di sore yang sama, Kini hanya tinggal bayang dalam suara hujan yang lama.  Dan ketika langit perlahan mereda, Aku tahu, tak semua perpisahan harus disesali. Beberapa hanya perlu diterima dengan tenang, Seperti hujan yang datang dan pergi, dengan sopan.
+Metode: Caesar
+Mode: encrypt
+Kunci/Shift: 3
+
+Hasil: Ulqwln gl Xmxqj Vhqmd  Kxmdq wxuxq gl xmxqj vhqmd, phpedzd durpd wdqdk bdqj dnude, Odqjlw mlqjjd shuodkdq sxgdu, ehujdqwl nhodex bdqj ohpeds. Dnx gxgxn gl ehudqgd, phqdwds zdnwx bdqj ehumdodq shodq, Phpeldundq ulqwln phpedzd whqdqj gl vhod nhqdqjdq.  Dgd nhkdqjdwdq gl edoln glqjlqqbd xgdud, Vhrodk kxmdq phqjdmdn kdwl xqwxn ehufhulwd. Whqwdqj wdzd bdqj gxox dgd gl vruh bdqj vdpd, Nlql kdqbd wlqjjdo edbdqj gdodp vxdud kxmdq bdqj odpd.  Gdq nhwlnd odqjlw shuodkdq phuhgd, Dnx wdkx, wdn vhpxd shuslvdkdq kduxv glvhvdol. Ehehudsd kdqbd shuox glwhulpd ghqjdq whqdqj, Vhshuwl kxmdq bdqj gdwdqj gdq shujl, ghqjdq vrsdq.
